@@ -2,7 +2,6 @@
 ## Muhamad Yusuf - 201011401382
 
 # Membuat Aplikasi ImageTrim dengan Python
-# README
 
 This is a [Flask](http://flask.pocoo.org/) app for my final exam exercise.
 
